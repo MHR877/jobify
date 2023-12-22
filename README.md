@@ -1,7 +1,7 @@
 <h1 align="center" >This is Jobify</h1>
 
 
-Jobify is a React Native app that helps you track and find job opportunities.
+<p align="center" >Jobify is a React Native app that helps you track and find job opportunities.</p>
 
 ## Features
 
